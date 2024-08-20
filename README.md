@@ -5,7 +5,7 @@ Welcome to my GitHub profile. I'm **Yarden Itzhaky**, a computer science student
 ## Projects
 
 🎬 **Movie Theater Management System**  
-*A comprehensive JavaFX application for managing movie theaters. Features include client-server communication using OCSF, MySQL ORM, and GUI implementation. This project is currently under development.*
+*A comprehensive JavaFX application for managing movie theaters. Features include client-server communication using OCSF, MySQL ORM, and GUI implementation. Read more in the project repository.*
 https://github.com/danielbob32/TheaterManager
 
 ## Key Skills
