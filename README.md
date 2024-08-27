@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to Yarden Itzhaky's Coding Universe 🚀</h1>
+<h1 align="center">Welcome to my Coding Universe 🚀</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Student;Full-Stack+Developer;Always+learning+new+things&font=Fira%20Code&center=true&width=380&height=50">
