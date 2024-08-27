@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to my Coding Universe 🚀</h1>
+<h1 align="center">Welcome to My Coding Universe 🚀</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Student;Full-Stack+Developer;Always+learning+new+things&font=Fira%20Code&center=true&width=380&height=50">
@@ -7,6 +7,7 @@
 <p align="center">
   <a href="mailto:yardene015@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/yardenitzhaky"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/yardenitzhaky"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
 ---
@@ -67,12 +68,27 @@ A responsive personal portfolio showcasing my projects and skills.
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yardenitzhaky&show_icons=true&theme=radical" alt="Yarden's GitHub stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yardenitzhaky&theme=radical" alt="Yarden's GitHub streak">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yardenitzhaky&layout=compact&theme=radical" alt="Top Langs">
+</p>
+
+---
+
 ## 🔬 Research Interests
 
-- Application Development
-- Artificial Intelligence
-- Software Engineering
-- Web Development
+<p align="center">
+  <img src="https://img.shields.io/badge/Application%20Development-009688?style=for-the-badge&logo=app-store&logoColor=white">
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-FF6F00?style=for-the-badge&logo=ai&logoColor=white">
+  <img src="https://img.shields.io/badge/Software%20Engineering-607D8B?style=for-the-badge&logo=hard-hat&logoColor=white">
+  <img src="https://img.shields.io/badge/Web%20Development-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white">
+</p>
 
 ---
 
