@@ -68,19 +68,6 @@ A responsive personal portfolio showcasing my projects and skills.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yardenitzhaky&show_icons=true&theme=radical" alt="Yarden's GitHub stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yardenitzhaky&theme=radical" alt="Yarden's GitHub streak">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yardenitzhaky&layout=compact&theme=radical" alt="Top Langs">
-</p>
-
----
-
 ## 🔬 Research Interests
 
 <p align="center">
