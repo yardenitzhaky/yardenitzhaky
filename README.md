@@ -14,7 +14,7 @@
 
 ## 🧠 About Me
 
-I'm a passionate Computer Science student at the University of Haifa, always eager to learn new technologies and tackle challenging problems. My journey in the world of coding is driven by curiosity and a desire to create impactful solutions.
+Hey👋, I'm Yarden, a passionate Computer Science student at the University of Haifa, always eager to learn new technologies and tackle challenging problems. My journey in the world of coding is driven by curiosity and a desire to create impactful solutions.
 
 ---
 
@@ -83,4 +83,4 @@ A responsive personal portfolio showcasing my projects and skills.
   <img src="https://komarev.com/ghpvc/?username=yardenitzhaky&color=blueviolet&style=flat-square&label=Profile+Views">
 </p>
 
-<h3 align="center">Let's connect and code something amazing together! 😊</h3>
+<h3 align="center">Ready to turn ideas into code? Let's collaborate! 💡👨‍💻</h3>
