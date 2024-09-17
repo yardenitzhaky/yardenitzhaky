@@ -54,15 +54,15 @@ A comprehensive JavaFX application for managing movie theaters.
 </details>
 
 <details>
-<summary>🌐 Portfolio Website (Under Construction)</summary>
+<summary>🌐 Portfolio Website</summary>
 
 A responsive personal portfolio showcasing my projects and skills.
 
-- **Tech Stack:** HTML5, CSS3, JavaScript, React.js, Node.js, Express.js
+- **Tech Stack:** HTML5, CSS3, JavaScript.
 - **Features:** 
   - Responsive design
   - Dynamic content loading
-  - Contact form with backend integration
+  - **[View Website](https://yardenitzhaky.github.io/Portfolio/)**
 
 </details>
 
