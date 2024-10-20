@@ -54,6 +54,21 @@ A comprehensive JavaFX application for managing movie theaters.
 </details>
 
 <details>
+<summary>📝 Keeper App</summary>
+  
+A full-stack note-taking application inspired by Google Keep.
+- **Tech Stack:** React, Node.js, Express, PostgreSQL, Passport.js
+- **Features:** 
+  - User authentication (local and Google OAuth)
+  - CRUD operations for notes
+  - Responsive design
+  - Email verification and password reset functionality
+- **[View Website]((https://keeper-frontend-36zj.onrender.com))**
+- **[View repositry]((https://github.com/yardenitzhaky/keeper))**
+</details>
+
+
+<details>
 <summary>🌐 Portfolio Website</summary>
 
 A responsive personal portfolio showcasing my projects and skills.
