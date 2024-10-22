@@ -64,7 +64,7 @@ A full-stack note-taking application inspired by Google Keep.
   - Responsive design
   - Email verification and password reset functionality
 - **[View Website](https://keeper-frontend-36zj.onrender.com)**
-- **[View repositry](https://github.com/yardenitzhaky/keeper)**
+- **[View repository](https://github.com/yardenitzhaky/keeper)**
 </details>
 
 
