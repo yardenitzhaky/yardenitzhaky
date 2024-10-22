@@ -49,7 +49,7 @@ A comprehensive JavaFX application for managing movie theaters.
   - Client-server communication
   - Database management with ORM
   - User-friendly GUI
-- **[View Project](https://github.com/danielbob32/TheaterManager)**
+- **[View repository](https://github.com/danielbob32/TheaterManager)**
 
 </details>
 
@@ -78,6 +78,7 @@ A responsive personal portfolio showcasing my projects and skills.
   - Responsive design
   - Dynamic content loading
   - **[View Website](https://yardenitzhaky.github.io/Portfolio/)**
+  - **[View repository](https://github.com/yardenitzhaky/Portfolio)**
 
 </details>
 
