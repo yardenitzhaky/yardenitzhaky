@@ -60,7 +60,7 @@ A full-stack note-taking application inspired by Google Keep.
 - **Tech Stack:** React, Node.js, Express, PostgreSQL, Passport.js
 - **Features:** 
   - User authentication (local and Google OAuth)
-  - CRUD operations for notes
+  - machine learning note categorization model for auto detection of categories to users.
   - Responsive design
   - Email verification and password reset functionality
 - **[View Website](https://keeper-frontend-36zj.onrender.com)**
