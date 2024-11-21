@@ -30,15 +30,13 @@ Hey👋, I'm Yarden, a passionate Computer Science student at the University of 
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/Bash%20Scripting-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
   <img src="https://img.shields.io/badge/Cloud-Computing-0C2D72?style=for-the-badge&logo=cloud&logoColor=white">
-  <img src="https://img.shields.io/badge/Bash%20Scripting-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaFX-007396?style=for-the-badge&logo=java&logoColor=white">
 </p>
 
 
@@ -63,7 +61,7 @@ A comprehensive JavaFX application for managing movie theaters.
 <summary>📝 Keeper App</summary>
   
 A full-stack note-taking application inspired by Google Keep.
-- **Tech Stack:** React, Node.js, Express, PostgreSQL, Passport.js
+- **Tech Stack:** React.js, Node.js, Express, PostgreSQL, Passport.js
 - **Features:** 
   - User authentication (local and Google OAuth)
   - machine learning note categorization model for auto detection of categories to users.
@@ -76,7 +74,7 @@ A full-stack note-taking application inspired by Google Keep.
 <summary>💳 CouponGuard</summary>
 
 A full-stack coupon management system for secure and efficient handling of discount coupons.
-- **Tech Stack:** React, .NET, MySQL
+- **Tech Stack:** React.js, #C, .NET, MySQL
 - **Features:**
   - JWT-based authentication and BCrypt password hashing
   - Support for percentage and fixed amount discounts
@@ -106,9 +104,12 @@ A responsive personal portfolio showcasing my projects and skills.
 ## 🔬 Research Interests
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Application%20Development-009688?style=for-the-badge&logo=app-store&logoColor=white">
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-FF6F00?style=for-the-badge&logo=ai&logoColor=white">
-  <img src="https://img.shields.io/badge/Web%20Development-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white">
+  <img src="https://img.shields.io/badge/Software%20Development-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Software Development">
+  <img src="https://img.shields.io/badge/Cloud%20Computing-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Cloud Computing">
+  <img src="https://img.shields.io/badge/Web%20Development-4285F4?style=for-the-badge&logo=html5&logoColor=white" alt="Web Development">
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-FF6F00?style=for-the-badge&logo=openai&logoColor=white" alt="Artificial Intelligence">
+  <img src="https://img.shields.io/badge/Full--Stack%20Applications-009688?style=for-the-badge&logo=javascript&logoColor=white" alt="Full-Stack Applications">
+  <img src="https://img.shields.io/badge/Automation-FF6F00?style=for-the-badge&logo=python&logoColor=white" alt="Automation">
 </p>
 
 ---
