@@ -84,7 +84,7 @@ A full-stack coupon management system for secure and efficient handling of disco
   - Responsive and modern UI with Tailwind CSS and PrimeReact
   - Advanced validation rules for coupon application
 - **[View Website](http://couponguardbucket.s3-website-us-east-1.amazonaws.com)  (username:admin) (password:123456)**
-- **[View repository](https://github.com/yardenitzhaky/coupon-guard)**
+- **[View repository](https://github.com/yardenitzhaky/Coupon-project)**
 </details>
 
 <details>
