@@ -10,10 +10,14 @@
 </p>
 
 ---
-
+<div align="center">
+  
 ## 🧠 About Me
 
+
 Hey👋, I'm Yarden, a passionate Computer Science student at the University of Haifa, always eager to learn new technologies and tackle challenging problems. My journey in the world of coding is driven by curiosity and a desire to create impactful solutions.
+  
+</div>
 
 ---
 
@@ -22,22 +26,25 @@ Hey👋, I'm Yarden, a passionate Computer Science student at the University of 
 <p align="center">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/Bash%20Scripting-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
   <img src="https://img.shields.io/badge/Cloud-Computing-0C2D72?style=for-the-badge&logo=cloud&logoColor=white">
 </p>
-
 
 ---
 
@@ -82,6 +89,21 @@ A full-stack coupon management system for secure and efficient handling of disco
   - Advanced validation rules for coupon application
 - **[View Website](http://couponguardbucket.s3-website-us-east-1.amazonaws.com)  (username:admin) (password:123456)**
 - **[View repository](https://github.com/yardenitzhaky/Coupon-project)**
+</details>
+
+<details>
+<summary>🔐 Full-Stack Registration System</summary>
+  
+A modern registration system with web and mobile interfaces, featuring AI-powered welcome messages.
+- **Tech Stack:** React.js, React Native, Python, Flask, MongoDB, Azure, OpenAI
+- **Features:**
+  - Dual interface support (Web + Mobile)
+  - AI-generated personalized welcome messages
+  - Cloud deployment with Azure and GitHub Actions
+  - Modern UI with Tailwind CSS and Expo
+  - Secure MongoDB data storage
+- **[View Web App](https://yardenitzhaky.github.io/Login-page/)**
+- **[View Mobile App (Expo)](https://expo.dev/preview/update?message=final%20button%20fix&updateRuntimeVersion=1.0.0&createdAt=2024-12-21T21%3A53%3A29.325Z&slug=exp&projectId=e14f7440-bc04-47da-aa6f-b8bfd88c4b6b&group=c09ec421-5083-4629-bbc4-f769d7c76dfc)**
 </details>
 
 <details>
