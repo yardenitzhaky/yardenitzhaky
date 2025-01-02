@@ -78,21 +78,6 @@ A full-stack note-taking application inspired by Google Keep.
 </details>
 
 <details>
-<summary>💳 CouponGuard</summary>
-
-A full-stack coupon management system for secure and efficient handling of discount coupons.
-- **Tech Stack:** React.js, #C, .NET, MySQL
-- **Features:**
-  - JWT-based authentication and BCrypt password hashing
-  - Support for percentage and fixed amount discounts
-  - Detailed usage tracking and reporting with export functionality
-  - Responsive and modern UI with Tailwind CSS and PrimeReact
-  - Advanced validation rules for coupon application
-- **[View Website](http://couponguardbucket.s3-website-us-east-1.amazonaws.com)  (username:admin) (password:123456)**
-- **[View repository](https://github.com/yardenitzhaky/Coupon-project)**
-</details>
-
-<details>
 <summary>🔐 Full-Stack Registration System</summary>
   
 A modern registration system with web and mobile interfaces, featuring AI-powered welcome messages.
