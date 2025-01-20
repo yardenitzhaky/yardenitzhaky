@@ -93,6 +93,19 @@ A modern registration system with web and mobile interfaces, featuring AI-powere
 </details>
 
 <details>
+<summary>🔐 Gitleaks Python Wrapper</summary>
+
+A Python-based wrapper for the Gitleaks secret detection tool, leveraging Docker for consistent environments.
+
+- **Tech Stack:** Python, Docker, Pydantic, Gitleaks
+- **Features:** 
+  - JSON-formatted findings
+  - Dockerized for portability
+  - Command-line support with error codes
+- **[View repository](https://github.com/yardenitzhaky/Leaks_Finder)**
+</details>
+
+<details>
 <summary>🌐 Portfolio Website</summary>
 
 A responsive personal portfolio showcasing my projects and skills.
