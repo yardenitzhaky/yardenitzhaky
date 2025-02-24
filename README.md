@@ -27,7 +27,6 @@ Hey👋, I'm Yarden, a passionate Computer Science student at the University of 
 <p align="center">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -77,20 +76,7 @@ A full-stack note-taking application inspired by Google Keep.
 - **[View repository](https://github.com/yardenitzhaky/keeper)**
 </details>
 
-<details>
-<summary>🔐 Full-Stack Registration System</summary>
-  
-A modern registration system with web and mobile interfaces, featuring AI-powered welcome messages.
-- **Tech Stack:** React.js, React Native, Python, Flask, MongoDB, Azure, OpenAI
-- **Features:**
-  - Dual interface support (Web + Mobile)
-  - AI-generated personalized welcome messages
-  - Cloud deployment with Azure and GitHub Actions
-  - Modern UI with Tailwind CSS and Expo
-  - Secure MongoDB data storage
-- **[View Web App](https://yardenitzhaky.github.io/Login-page/)**
-- **[View Mobile App (Expo)](https://expo.dev/preview/update?message=final%20button%20fix&updateRuntimeVersion=1.0.0&createdAt=2024-12-21T21%3A53%3A29.325Z&slug=exp&projectId=e14f7440-bc04-47da-aa6f-b8bfd88c4b6b&group=c09ec421-5083-4629-bbc4-f769d7c76dfc)**
-</details>
+
 
 <details>
 <summary>🔐 Gitleaks Python Wrapper</summary>
