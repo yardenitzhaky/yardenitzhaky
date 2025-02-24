@@ -1,10 +1,6 @@
 <h1 align="center">Welcome to My Coding Universe 🚀</h1>
 
 <p align="center">
-  <a href="https://yardenitzhaky.github.io/Portfolio/" style="font-size: 24px; font-weight: bold; text-decoration: none; background-color: #4285F4; color: white; padding: 10px 20px; border-radius: 5px;">📂 View My Portfolio</a>
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Student;Full-Stack+Developer;Always+learning+new+things&font=Fira%20Code&center=true&width=380&height=50">
 </p>
 
@@ -111,8 +107,3 @@ A Python-based wrapper for the Gitleaks secret detection tool, leveraging Docker
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yardenitzhaky&color=blueviolet&style=flat-square&label=Profile+Views">
-</p>
-
-<h3 align="center">Ready to turn ideas into code? Let's collaborate! 💡👨‍💻</h3>
