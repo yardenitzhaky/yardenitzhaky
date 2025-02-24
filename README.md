@@ -1,6 +1,10 @@
 <h1 align="center">Welcome to My Coding Universe 🚀</h1>
 
 <p align="center">
+  <a href="https://yardenitzhaky.github.io/Portfolio/" style="font-size: 24px; font-weight: bold; text-decoration: none; background-color: #4285F4; color: white; padding: 10px 20px; border-radius: 5px;">📂 View My Portfolio</a>
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Student;Full-Stack+Developer;Always+learning+new+things&font=Fira%20Code&center=true&width=380&height=50">
 </p>
 
@@ -91,19 +95,6 @@ A Python-based wrapper for the Gitleaks secret detection tool, leveraging Docker
 - **[View repository](https://github.com/yardenitzhaky/Leaks_Finder)**
 </details>
 
-<details>
-<summary>🌐 Portfolio Website</summary>
-
-A responsive personal portfolio showcasing my projects and skills.
-
-- **Tech Stack:** HTML5, CSS3, JavaScript.
-- **Features:** 
-  - Responsive design
-  - Dynamic content loading
-  - **[View Website](https://yardenitzhaky.github.io/Portfolio/)**
-  - **[View repository](https://github.com/yardenitzhaky/Portfolio)**
-
-</details>
 
 ---
 
