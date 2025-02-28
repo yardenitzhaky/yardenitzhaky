@@ -80,7 +80,7 @@ A full-stack note-taking application inspired by Google Keep.
   - User authentication (local and Google OAuth)
   - machine learning note categorization model for auto detection of categories to users.
   - Email verification and password reset functionality
-- **[View Website](https://keeper-frontend-36zj.onrender.com)**
+- **[View Website](https://yardenitzhaky.github.io/keeper-app)**
 - **[View repository](https://github.com/yardenitzhaky/keeper)**
 </details>
 
