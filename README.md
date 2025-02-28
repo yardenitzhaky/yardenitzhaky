@@ -63,11 +63,11 @@ A comprehensive JavaFX application for managing movie theaters.
 - **[View repository](https://github.com/danielbob32/TheaterManager)**
 
 ### Screenshots:
-![Screenshot 1](screenshots/Screenshot%202025-02-25%20at%2011.27.03.png)
-![Screenshot 3](screenshots/Screenshot%202025-02-25%20at%2011.44.09.png)
-![Screenshot 6](screenshots/Screenshot%202025-02-25%20at%2011.45.43.png)
-![Screenshot 7](screenshots/Screenshot%202025-02-25%20at%2011.46.53.png)
-![Screenshot 8](screenshots/Screenshot%202025-02-25%20at%2011.47.02.png)
+![Screenshot 1](screenshots_movie/Screenshot%202025-02-25%20at%2011.27.03.png)
+![Screenshot 3](screenshots_movie/Screenshot%202025-02-25%20at%2011.44.09.png)
+![Screenshot 6](screenshots_movie/Screenshot%202025-02-25%20at%2011.45.43.png)
+![Screenshot 7](screenshots_movie/Screenshot%202025-02-25%20at%2011.46.53.png)
+![Screenshot 8](screenshots_movie/Screenshot%202025-02-25%20at%2011.47.02.png)
 
 </details>
 
@@ -82,6 +82,11 @@ A full-stack note-taking application inspired by Google Keep.
   - Email verification and password reset functionality
 - **[View Website](https://yardenitzhaky.github.io/keeper-app)**
 - **[View repository](https://github.com/yardenitzhaky/keeper)**
+
+- ### Screenshots:
+![Screenshot 1](screenshots_keeper/Screenshot 2025-02-28 at 16.28.58.png)
+![Screenshot 3](screenshots_keeper/Screenshot 2025-02-28 at 17.10.38.png)
+![Screenshot 6](screenshots_keeper/Screenshot 2025-02-28 at 17.10.58.png)
 </details>
 
 
