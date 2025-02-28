@@ -84,9 +84,9 @@ A full-stack note-taking application inspired by Google Keep.
 - **[View repository](https://github.com/yardenitzhaky/keeper)**
 
 - ### Screenshots:
-![Screenshot 1](screenshots_keeper/Screenshot 2025-02-28 at 16.28.58.png)
-![Screenshot 3](screenshots_keeper/Screenshot 2025-02-28 at 17.10.38.png)
-![Screenshot 6](screenshots_keeper/Screenshot 2025-02-28 at 17.10.58.png)
+![Screenshot](screenshots_keeper/Screenshot%202025-02-28%20at%2016.28.58.png)
+![Screenshot](screenshots_keeper/Screenshot%202025-02-28%20at%2017.10.38.png)
+![Screenshot](screenshots_keeper/Screenshot%202025-02-28%20at%2017.10.58.png)
 </details>
 
 
