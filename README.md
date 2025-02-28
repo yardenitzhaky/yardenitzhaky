@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to My Coding Universe 🚀</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Student;Full-Stack+Developer;Always+learning+new+things&font=Fira%20Code&center=true&width=380&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Student;Full-Stack+Developer;DevOps+Engineer;Always+learning+new+things&font=Fira%20Code&center=true&width=380&height=50">
 </p>
 
 <p align="center">
