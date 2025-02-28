@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to My Coding Universe 🚀</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Student;Full-Stack+Developer;Always+learning+new+things&font=Fira%20Code&center=true&width=380&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Student;Full-Stack+Developer;DevOps+Engineer;Always+learning+new+things&font=Fira%20Code&center=true&width=380&height=50">
 </p>
 
 <p align="center">
@@ -61,6 +61,14 @@ A comprehensive JavaFX application for managing movie theaters.
   - Database management with ORM
   - User-friendly GUI
 - **[View repository](https://github.com/danielbob32/TheaterManager)**
+
+### Screenshots:
+![Screenshot 1](screenshots/Screenshot%202025-02-25%20at%2011.27.03.png)
+![Screenshot 3](screenshots/Screenshot%202025-02-25%20at%2011.44.09.png)
+![Screenshot 6](screenshots/Screenshot%202025-02-25%20at%2011.45.43.png)
+![Screenshot 7](screenshots/Screenshot%202025-02-25%20at%2011.46.53.png)
+![Screenshot 8](screenshots/Screenshot%202025-02-25%20at%2011.47.02.png)
+
 </details>
 
 <details>
@@ -72,7 +80,7 @@ A full-stack note-taking application inspired by Google Keep.
   - User authentication (local and Google OAuth)
   - machine learning note categorization model for auto detection of categories to users.
   - Email verification and password reset functionality
-- **[View Website](https://keeper-frontend-36zj.onrender.com)**
+- **[View Website](https://yardenitzhaky.github.io/keeper-app)**
 - **[View repository](https://github.com/yardenitzhaky/keeper)**
 </details>
 
