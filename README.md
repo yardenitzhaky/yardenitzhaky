@@ -106,7 +106,7 @@ A Python wrapper for Gitleaks that enhances secret detection with structured out
 - **[View repository](https://github.com/yardenitzhaky/Leaks_Finder)**
 
 - ### Screenshots:
-![Screenshot](screenshots_pyrhonwrapper/Screenshot%2020225-03-02%20at@2011.32.46.png)
+![Screenshot](screenshots_pythonwrapper/Screenshot%202025-03-02%20at%2011.32.46.png)
 
 </details>
 
