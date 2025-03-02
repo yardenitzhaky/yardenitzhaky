@@ -62,12 +62,12 @@ A comprehensive JavaFX application for managing movie theaters.
   - User-friendly GUI
 - **[View repository](https://github.com/danielbob32/TheaterManager)**
 
-### Screenshots:
-![Screenshot 1](screenshots_movie/Screenshot%202025-02-25%20at%2011.27.03.png)
-![Screenshot 3](screenshots_movie/Screenshot%202025-02-25%20at%2011.44.09.png)
-![Screenshot 6](screenshots_movie/Screenshot%202025-02-25%20at%2011.45.43.png)
-![Screenshot 7](screenshots_movie/Screenshot%202025-02-25%20at%2011.46.53.png)
-![Screenshot 8](screenshots_movie/Screenshot%202025-02-25%20at%2011.47.02.png)
+- ### Screenshots:
+![Screenshot](screenshots_movie/Screenshot%202025-02-25%20at%2011.27.03.png)
+![Screenshot](screenshots_movie/Screenshot%202025-02-25%20at%2011.44.09.png)
+![Screenshot](screenshots_movie/Screenshot%202025-02-25%20at%2011.45.43.png)
+![Screenshot](screenshots_movie/Screenshot%202025-02-25%20at%2011.46.53.png)
+![Screenshot](screenshots_movie/Screenshot%202025-02-25%20at%2011.47.02.png)
 
 </details>
 
@@ -87,6 +87,7 @@ A full-stack note-taking application inspired by Google Keep.
 ![Screenshot](screenshots_keeper/Screenshot%202025-02-28%20at%2016.28.58.png)
 ![Screenshot](screenshots_keeper/Screenshot%202025-02-28%20at%2017.10.38.png)
 ![Screenshot](screenshots_keeper/Screenshot%202025-02-28%20at%2017.10.58.png)
+
 </details>
 
 
@@ -94,14 +95,19 @@ A full-stack note-taking application inspired by Google Keep.
 <details>
 <summary>🔐 Gitleaks Python Wrapper</summary>
 
-A Python-based wrapper for the Gitleaks secret detection tool, leveraging Docker for consistent environments.
+A Python wrapper for Gitleaks that enhances secret detection with structured output and detailed metrics.
+
 
 - **Tech Stack:** Python, Docker, Pydantic, Gitleaks
 - **Features:** 
-  - JSON-formatted findings
+  - Structured JSON output with scan metrics (duration, file counts)
   - Dockerized for portability
   - Command-line support with error codes
 - **[View repository](https://github.com/yardenitzhaky/Leaks_Finder)**
+
+- ### Screenshots:
+![Screenshot](screenshots_pyrhonwrapper/Screenshot%2020225-03-02%20at@2011.32.46.png)
+
 </details>
 
 
