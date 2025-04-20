@@ -131,10 +131,10 @@ Its core functionality is to take a recorded lecture (video file or URL) and cor
 - **[View Repository](https://github.com/yardenitzhaky/LECTURER)** 
 
 - ### Screenshots:
-![Homepage Screenshot](screenshots_LECTURER/screenshots/Screenshot%202025-04-06%20at%2012.16.49.png)
-![Upload Interface Screenshot](screenshots_LECTURER/screenshots/Screenshot%202025-04-06%20at%2012.17.19.png)
-![Lecture Loading Screenshot](screenshots_LECTURER/screenshots/Screenshot%202025-04-09%20at%2017.01.11.png)
-![Lecture View Interface](screenshots_LECTURER/screenshots/Screenshot%202025-04-09%20at%2017.01.53.png)
+![Homepage Screenshot](screenshots_LECTURER/Screenshot%202025-04-06%20at%2012.16.49.png)
+![Upload Interface Screenshot](screenshots_LECTURER/Screenshot%202025-04-06%20at%2012.17.19.png)
+![Lecture Loading Screenshot](screenshots_LECTURER/Screenshot%202025-04-09%20at%2017.01.11.png)
+![Lecture View Interface](screenshots_LECTURER/Screenshot%202025-04-09%20at%2017.01.53.png)
 
 </details>
 
