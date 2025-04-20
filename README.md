@@ -110,6 +110,34 @@ A Python wrapper for Gitleaks that enhances secret detection with structured out
 
 </details>
 
+<details>
+<summary>🧠 NoteLecture.AI</summary>
+
+An intelligent web application designed to automatically transform lecture recordings and presentations into organized, searchable, and easy-to-review content. Your Lecture, Intelligently Noted.
+Its core functionality is to take a recorded lecture (video file or URL) and corresponding presentation slides, then automatically transcribe the audio, synchronize the spoken content with the relevant slides, and extract key information.
+
+- **Tech Stack (Backend):** Python (FastAPI), MySQL, OpenCV, PyMuPDF, IVRIT.AI, OpenAI
+- **Tech Stack (Frontend):** React.js, TypeScript, Tailwind CSS
+- **Features:**
+  - Processes local video files or URLs (YouTube, Zoom)
+  - Supports PDF and PPTX presentation formats
+  - Automatically extracts audio and slide images
+  - Uses AI for audio transcription (optimized for Hebrew)
+  - Synchronizes transcription segments with presentation slides based on video analysis
+  - Provides AI-powered summarization for each slide's content
+  - Offers an interactive web interface to view synchronized content and summaries
+  - Displays processing status updates in real-time
+
+- **[View Repository](https://github.com/yardenitzhaky/LECTURER)** 
+
+- ### Screenshots:
+![Homepage Screenshot](screenshots_LECTURER/screenshots/Screenshot%202025-04-06%20at%2012.16.49.png)
+![Upload Interface Screenshot](screenshots_LECTURER/screenshots/Screenshot%202025-04-06%20at%2012.17.19.png)
+![Lecture Loading Screenshot](screenshots_LECTURER/screenshots/Screenshot%202025-04-09%20at%2017.01.11.png)
+![Lecture View Interface](screenshots_LECTURER/screenshots/Screenshot%202025-04-09%20at%2017.01.53.png)
+
+</details>
+
 
 ---
 
